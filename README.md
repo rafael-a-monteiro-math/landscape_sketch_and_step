@@ -1,6 +1,7 @@
 # landscape_sketch_and_step
 Supplementary material for the paper 
-`"Landscape-Sketch-Step: An AI/ML-Based Metaheuristic for Surrogate Optimization Problems",` by R. Monteiro K. Sau (2023).
+
+```"Landscape-Sketch-Step: An AI/ML-Based Metaheuristic for Surrogate Optimization Problems",``` by R. Monteiro K. Sau (2023).
 
 
 A [preprint is available on Arxiv](http://arxiv.org/abs/2309.07936).
